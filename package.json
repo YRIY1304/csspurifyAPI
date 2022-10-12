@@ -1,0 +1,8 @@
+{
+  "name": "css",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "purify-css": "1.2.6"
+  }
+}
