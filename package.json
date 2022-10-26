@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "nodejs": "^0.0.0",
+    "purify-css": "^1.2.5"
+  },
+  "scripts": {
+    "purify": "purifycss './input/*.html' './input/*.css' -m -o './output/purified.css' && node ./collector.js "
+  }
+}
